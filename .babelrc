@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    ["component", 
+      {
+         "libraryName": "lyf-ui",
+         "styleLibraryName": "~node_modules/lyf-ui/static"
+      }
+    ]
+  ]
+}

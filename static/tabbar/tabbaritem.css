@@ -1,0 +1,15 @@
+.tab-bar-item {
+  flex: 1;
+  text-align: center
+}
+span,
+img {
+  display: block;
+  font-size: 14px;
+}
+
+img {
+  width: 24px;
+  height: 24px;
+  margin: 3px auto 0 auto;
+}
